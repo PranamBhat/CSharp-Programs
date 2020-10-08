@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.exe
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.deps.json
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.json
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.dll
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.pdb
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.dll
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.pdb
+E:\Pranam\Git Repository Projects\C#\SumOfDigits\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.genruntimeconfig.cache

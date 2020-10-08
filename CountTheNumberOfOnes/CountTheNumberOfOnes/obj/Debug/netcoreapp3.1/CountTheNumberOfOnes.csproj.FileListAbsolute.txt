@@ -1,0 +1,12 @@
+E:\Pranam\Git Repository Projects\C#\CountTheNumberOfOnes\CountTheNumberOfOnes\bin\Debug\netcoreapp3.1\CountTheNumberOfOnes.exe
+E:\Pranam\Git Repository Projects\C#\CountTheNumberOfOnes\CountTheNumberOfOnes\bin\Debug\netcoreapp3.1\CountTheNumberOfOnes.deps.json
+E:\Pranam\Git Repository Projects\C#\CountTheNumberOfOnes\CountTheNumberOfOnes\bin\Debug\netcoreapp3.1\CountTheNumberOfOnes.runtimeconfig.json
+E:\Pranam\Git Repository Projects\C#\CountTheNumberOfOnes\CountTheNumberOfOnes\bin\Debug\netcoreapp3.1\CountTheNumberOfOnes.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\C#\CountTheNumberOfOnes\CountTheNumberOfOnes\bin\Debug\netcoreapp3.1\CountTheNumberOfOnes.dll
+E:\Pranam\Git Repository Projects\C#\CountTheNumberOfOnes\CountTheNumberOfOnes\bin\Debug\netcoreapp3.1\CountTheNumberOfOnes.pdb
+E:\Pranam\Git Repository Projects\C#\CountTheNumberOfOnes\CountTheNumberOfOnes\obj\Debug\netcoreapp3.1\CountTheNumberOfOnes.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\C#\CountTheNumberOfOnes\CountTheNumberOfOnes\obj\Debug\netcoreapp3.1\CountTheNumberOfOnes.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\C#\CountTheNumberOfOnes\CountTheNumberOfOnes\obj\Debug\netcoreapp3.1\CountTheNumberOfOnes.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\C#\CountTheNumberOfOnes\CountTheNumberOfOnes\obj\Debug\netcoreapp3.1\CountTheNumberOfOnes.dll
+E:\Pranam\Git Repository Projects\C#\CountTheNumberOfOnes\CountTheNumberOfOnes\obj\Debug\netcoreapp3.1\CountTheNumberOfOnes.pdb
+E:\Pranam\Git Repository Projects\C#\CountTheNumberOfOnes\CountTheNumberOfOnes\obj\Debug\netcoreapp3.1\CountTheNumberOfOnes.genruntimeconfig.cache

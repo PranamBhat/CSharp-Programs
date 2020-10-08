@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.exe
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.deps.json
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.json
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.dll
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.pdb
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.dll
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.pdb
+E:\Pranam\Git Repository Projects\C#\EvenOdd\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.genruntimeconfig.cache

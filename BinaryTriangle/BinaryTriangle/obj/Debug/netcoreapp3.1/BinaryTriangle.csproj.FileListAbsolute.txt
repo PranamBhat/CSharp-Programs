@@ -1,0 +1,12 @@
+E:\Pranam\Git Repository Projects\C#\BinaryTriangle\BinaryTriangle\bin\Debug\netcoreapp3.1\BinaryTriangle.exe
+E:\Pranam\Git Repository Projects\C#\BinaryTriangle\BinaryTriangle\bin\Debug\netcoreapp3.1\BinaryTriangle.deps.json
+E:\Pranam\Git Repository Projects\C#\BinaryTriangle\BinaryTriangle\bin\Debug\netcoreapp3.1\BinaryTriangle.runtimeconfig.json
+E:\Pranam\Git Repository Projects\C#\BinaryTriangle\BinaryTriangle\bin\Debug\netcoreapp3.1\BinaryTriangle.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\C#\BinaryTriangle\BinaryTriangle\bin\Debug\netcoreapp3.1\BinaryTriangle.dll
+E:\Pranam\Git Repository Projects\C#\BinaryTriangle\BinaryTriangle\bin\Debug\netcoreapp3.1\BinaryTriangle.pdb
+E:\Pranam\Git Repository Projects\C#\BinaryTriangle\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\C#\BinaryTriangle\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\C#\BinaryTriangle\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\C#\BinaryTriangle\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.dll
+E:\Pranam\Git Repository Projects\C#\BinaryTriangle\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.pdb
+E:\Pranam\Git Repository Projects\C#\BinaryTriangle\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.genruntimeconfig.cache

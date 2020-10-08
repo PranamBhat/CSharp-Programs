@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\bin\Debug\netcoreapp3.1\Swap.exe
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\bin\Debug\netcoreapp3.1\Swap.deps.json
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.json
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\bin\Debug\netcoreapp3.1\Swap.dll
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\bin\Debug\netcoreapp3.1\Swap.pdb
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.dll
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.pdb
+E:\Pranam\Git Repository Projects\C#\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.genruntimeconfig.cache
