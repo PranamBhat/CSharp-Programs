@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.genruntimeconfig.cache

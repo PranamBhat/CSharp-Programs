@@ -1,0 +1,12 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\ViewFile\ViewFile\bin\Debug\netcoreapp3.1\ViewFile.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\ViewFile\ViewFile\bin\Debug\netcoreapp3.1\ViewFile.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\ViewFile\ViewFile\bin\Debug\netcoreapp3.1\ViewFile.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\ViewFile\ViewFile\bin\Debug\netcoreapp3.1\ViewFile.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\ViewFile\ViewFile\bin\Debug\netcoreapp3.1\ViewFile.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\ViewFile\ViewFile\bin\Debug\netcoreapp3.1\ViewFile.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\ViewFile\ViewFile\obj\Debug\netcoreapp3.1\ViewFile.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\ViewFile\ViewFile\obj\Debug\netcoreapp3.1\ViewFile.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\ViewFile\ViewFile\obj\Debug\netcoreapp3.1\ViewFile.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\ViewFile\ViewFile\obj\Debug\netcoreapp3.1\ViewFile.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\ViewFile\ViewFile\obj\Debug\netcoreapp3.1\ViewFile.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\ViewFile\ViewFile\obj\Debug\netcoreapp3.1\ViewFile.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.genruntimeconfig.cache

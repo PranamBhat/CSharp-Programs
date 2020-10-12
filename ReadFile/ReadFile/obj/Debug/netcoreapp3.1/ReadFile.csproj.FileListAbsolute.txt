@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\bin\Debug\netcoreapp3.1\ReadFile.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\bin\Debug\netcoreapp3.1\ReadFile.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\bin\Debug\netcoreapp3.1\ReadFile.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\bin\Debug\netcoreapp3.1\ReadFile.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\bin\Debug\netcoreapp3.1\ReadFile.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\bin\Debug\netcoreapp3.1\ReadFile.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\ReadFile\ReadFile\obj\Debug\netcoreapp3.1\ReadFile.genruntimeconfig.cache

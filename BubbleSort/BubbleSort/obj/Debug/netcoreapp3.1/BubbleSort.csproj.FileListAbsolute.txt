@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\bin\Debug\netcoreapp3.1\CheckFile.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\bin\Debug\netcoreapp3.1\CheckFile.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\bin\Debug\netcoreapp3.1\CheckFile.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\bin\Debug\netcoreapp3.1\CheckFile.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\bin\Debug\netcoreapp3.1\CheckFile.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\bin\Debug\netcoreapp3.1\CheckFile.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\obj\Debug\netcoreapp3.1\CheckFile.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\obj\Debug\netcoreapp3.1\CheckFile.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\obj\Debug\netcoreapp3.1\CheckFile.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\obj\Debug\netcoreapp3.1\CheckFile.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\obj\Debug\netcoreapp3.1\CheckFile.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\obj\Debug\netcoreapp3.1\CheckFile.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\CheckFile\CheckFile\obj\Debug\netcoreapp3.1\CheckFile.genruntimeconfig.cache

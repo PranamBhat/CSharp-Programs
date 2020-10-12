@@ -1,0 +1,12 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache

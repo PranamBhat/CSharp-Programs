@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.genruntimeconfig.cache

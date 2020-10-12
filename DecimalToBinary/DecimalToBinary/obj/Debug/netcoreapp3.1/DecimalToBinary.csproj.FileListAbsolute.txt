@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToBinary\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache

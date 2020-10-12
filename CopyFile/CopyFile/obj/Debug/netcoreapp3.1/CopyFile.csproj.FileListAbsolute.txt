@@ -1,0 +1,12 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\CopyFile\CopyFile\bin\Debug\netcoreapp3.1\CopyFile.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\CopyFile\CopyFile\obj\Debug\netcoreapp3.1\CopyFile.genruntimeconfig.cache

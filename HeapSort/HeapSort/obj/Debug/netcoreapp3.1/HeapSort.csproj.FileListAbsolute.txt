@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\HeapSort\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.genruntimeconfig.cache

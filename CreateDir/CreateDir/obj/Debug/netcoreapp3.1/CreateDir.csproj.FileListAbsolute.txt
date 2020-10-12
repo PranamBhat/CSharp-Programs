@@ -1,0 +1,12 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateDir\CreateDir\obj\Debug\netcoreapp3.1\CreateDir.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateDir\CreateDir\obj\Debug\netcoreapp3.1\CreateDir.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateDir\CreateDir\obj\Debug\netcoreapp3.1\CreateDir.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateDir\CreateDir\bin\Debug\netcoreapp3.1\CreateDir.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateDir\CreateDir\bin\Debug\netcoreapp3.1\CreateDir.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateDir\CreateDir\bin\Debug\netcoreapp3.1\CreateDir.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateDir\CreateDir\bin\Debug\netcoreapp3.1\CreateDir.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateDir\CreateDir\bin\Debug\netcoreapp3.1\CreateDir.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateDir\CreateDir\bin\Debug\netcoreapp3.1\CreateDir.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateDir\CreateDir\obj\Debug\netcoreapp3.1\CreateDir.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateDir\CreateDir\obj\Debug\netcoreapp3.1\CreateDir.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateDir\CreateDir\obj\Debug\netcoreapp3.1\CreateDir.genruntimeconfig.cache

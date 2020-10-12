@@ -1,0 +1,12 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateFile\CreateFile\bin\Debug\netcoreapp3.1\CreateFile.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateFile\CreateFile\bin\Debug\netcoreapp3.1\CreateFile.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateFile\CreateFile\bin\Debug\netcoreapp3.1\CreateFile.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateFile\CreateFile\bin\Debug\netcoreapp3.1\CreateFile.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateFile\CreateFile\bin\Debug\netcoreapp3.1\CreateFile.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateFile\CreateFile\bin\Debug\netcoreapp3.1\CreateFile.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateFile\CreateFile\obj\Debug\netcoreapp3.1\CreateFile.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateFile\CreateFile\obj\Debug\netcoreapp3.1\CreateFile.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateFile\CreateFile\obj\Debug\netcoreapp3.1\CreateFile.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateFile\CreateFile\obj\Debug\netcoreapp3.1\CreateFile.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateFile\CreateFile\obj\Debug\netcoreapp3.1\CreateFile.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\CreateFile\CreateFile\obj\Debug\netcoreapp3.1\CreateFile.genruntimeconfig.cache

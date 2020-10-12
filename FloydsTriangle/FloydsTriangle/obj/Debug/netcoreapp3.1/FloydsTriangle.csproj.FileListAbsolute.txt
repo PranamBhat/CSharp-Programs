@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\bin\Debug\netcoreapp3.1\FloydsTriangle.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\bin\Debug\netcoreapp3.1\FloydsTriangle.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\bin\Debug\netcoreapp3.1\FloydsTriangle.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\bin\Debug\netcoreapp3.1\FloydsTriangle.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\bin\Debug\netcoreapp3.1\FloydsTriangle.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\bin\Debug\netcoreapp3.1\FloydsTriangle.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\obj\Debug\netcoreapp3.1\FloydsTriangle.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\obj\Debug\netcoreapp3.1\FloydsTriangle.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\obj\Debug\netcoreapp3.1\FloydsTriangle.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\obj\Debug\netcoreapp3.1\FloydsTriangle.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\obj\Debug\netcoreapp3.1\FloydsTriangle.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\obj\Debug\netcoreapp3.1\FloydsTriangle.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\FloydsTriangle\FloydsTriangle\obj\Debug\netcoreapp3.1\FloydsTriangle.genruntimeconfig.cache

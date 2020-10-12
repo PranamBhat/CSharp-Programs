@@ -1,0 +1,4 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\AdditionMouseUp\AdditionMouseUp\obj\Debug\netcoreapp3.1\AdditionMouseUp.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\AdditionMouseUp\AdditionMouseUp\obj\Debug\netcoreapp3.1\AdditionMouseUp.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\AdditionMouseUp\AdditionMouseUp\obj\Debug\netcoreapp3.1\AdditionMouseUp.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\AdditionMouseUp\AdditionMouseUp\obj\Debug\netcoreapp3.1\AdditionMouseUp.csproj.CoreCompileInputs.cache

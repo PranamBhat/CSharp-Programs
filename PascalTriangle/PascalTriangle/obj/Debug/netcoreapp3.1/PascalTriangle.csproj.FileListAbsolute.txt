@@ -1,0 +1,12 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\PascalTriangle\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\PascalTriangle\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.genruntimeconfig.cache

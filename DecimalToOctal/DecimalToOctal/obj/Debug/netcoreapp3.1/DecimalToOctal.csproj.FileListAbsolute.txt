@@ -1,0 +1,13 @@
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\bin\Debug\netcoreapp3.1\DecimalToOctal.exe
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\bin\Debug\netcoreapp3.1\DecimalToOctal.deps.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\bin\Debug\netcoreapp3.1\DecimalToOctal.runtimeconfig.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\bin\Debug\netcoreapp3.1\DecimalToOctal.runtimeconfig.dev.json
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\bin\Debug\netcoreapp3.1\DecimalToOctal.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\bin\Debug\netcoreapp3.1\DecimalToOctal.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\obj\Debug\netcoreapp3.1\DecimalToOctal.csprojAssemblyReference.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\obj\Debug\netcoreapp3.1\DecimalToOctal.AssemblyInfoInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\obj\Debug\netcoreapp3.1\DecimalToOctal.AssemblyInfo.cs
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\obj\Debug\netcoreapp3.1\DecimalToOctal.csproj.CoreCompileInputs.cache
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\obj\Debug\netcoreapp3.1\DecimalToOctal.dll
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\obj\Debug\netcoreapp3.1\DecimalToOctal.pdb
+E:\Pranam\Git Repository Projects\CSharp-Programs\DecimalToOctal\DecimalToOctal\obj\Debug\netcoreapp3.1\DecimalToOctal.genruntimeconfig.cache
